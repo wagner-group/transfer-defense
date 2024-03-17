@@ -3,8 +3,9 @@
 > TLDR: Training neural networks against a small subset of transfer attacks generalizes surprisingly well to all the attacks across multiple source models and attack algorithms.
 
 Chawin Sitawarin, Jaewon Chang*, David Huang*, Wesson Altoyan, David Wagner  
-[[ArXiv](https://arxiv.org/abs/2310.17645)]
 
+[![arXiv](https://img.shields.io/badge/ICLR'24-Poster-42f58d.svg)](https://openreview.net/forum?id=Tvwf4Vsi5F)
+[![arXiv](https://img.shields.io/badge/arXiv-2310.17645-b31b1b.svg)](https://arxiv.org/abs/2310.17645)
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 ## Abstract
